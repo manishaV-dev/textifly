@@ -1,0 +1,27 @@
+
+@media screen and (max-width: 1296px) {
+  
+ .slideshow-item-text h5{
+  font-size: 3rem;
+}
+
+.slideshow-item-text p{
+  font-size: 1.2rem;
+}
+
+.main{
+	max-width: 1000px;
+	margin: auto;
+}
+
+.footer{
+	display: flex;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.legal__links, .line{
+	margin-right: 5%;
+}
+
+}
